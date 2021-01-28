@@ -1,7 +1,7 @@
 # Stock
 功能 : 爬取股價資料並提供進出買賣的訊號
 
-開發工具 : Python3.7
+開發工具 : Python3.7 <br>
 資料庫 :　MongodDb
 資料來源 : 直接爬取證交所網站 或 twstock(python package),
 Package : 
