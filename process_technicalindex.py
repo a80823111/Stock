@@ -38,20 +38,3 @@ for t in threads:
         st.join()
 
 
-
-    
-
-    # technicalindex.MA(stockprice['StockCode'],stockprice['StockPrice'],3)
-    # technicalindex.MA(stockprice['StockCode'],stockprice['StockPrice'],5)
-    # technicalindex.MA(stockprice['StockCode'],stockprice['StockPrice'],6)
-    # technicalindex.MA(stockprice['StockCode'],stockprice['StockPrice'],10)
-    # technicalindex.MA(stockprice['StockCode'],stockprice['StockPrice'],20)
-    # technicalindex.MA(stockprice['StockCode'],stockprice['StockPrice'],60)
-    # technicalindex.MA(stockprice['StockCode'],stockprice['StockPrice'],120)
-    # technicalindex.MA(stockprice['StockCode'],stockprice['StockPrice'],240)
- 
-    # technicalindex.KD(stockprice['StockCode'],stockprice['StockPrice'])
-
-    # technicalindex.MACD(stockprice['StockCode'],stockprice['StockPrice'])
-    # technicalindex.RSI(stockprice['StockCode'],stockprice['StockPrice'])
-
