@@ -1,0 +1,2 @@
+db.StockPrice.ensureIndex( { "Date": -1, "StockCode": 1 } )
+db.TechnicalIndex.ensureIndex( { "Date": -1, "StockCode": 1 } )
